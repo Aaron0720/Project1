@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-wK1GEkdftBZC0YqL1kuaeH7Tx
-This is a temporary script file.
-"""
+
 
 import os
 import json 
