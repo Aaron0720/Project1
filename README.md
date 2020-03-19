@@ -1,13 +1,13 @@
 # Project  Analyzing Millions of NYC Parking Violations
 Part 1: Python Scripting
 
-main.py
+>main.py
 
-Dockerfile
+>Dockerfile
 
-requirements.txt
+>requirements.txt
 
-src-api.py
+>src-api.py
 
 $ docker build -t bigdata1:1.0 .
 
